@@ -1,0 +1,3 @@
+[submodule "stow/vim-config"]
+	path = stow/vim-config
+	url = https://github.com/ghapereira/vim-config

@@ -1,0 +1,5 @@
+.vagrant/
+bots/bin
+bots/lib
+bots/lib64
+bots/pyvenv.cfg
